@@ -1,4 +1,8 @@
 # Login-Register 
+# Spring Boot Web 
+# Spring Security 
+# Spring Data JPA
+# Hibernate
 # Thymeleaf
 # Mysql DB
 # @Codejava
